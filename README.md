@@ -4,7 +4,7 @@ What makes matters worse, existing methods treat each task independently, overlo
 By forming a closed loop, these two converters can generate informative feedback signals which can optimize the inverse tasks, even with easily acquired one-way unpaired data. Furthermore, we employ the diffusion model as foundational conditional generators to circumvent the training instability and over-smoothing drawbacks of conventional GAN architectures. Extensive experiments exhibit that our framework can improve the performance of each task and better match specified visual scenarios.
 In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably, the performance of the models can be further enhanced by adding unpaired data.
 
-
+<!--
 <style>
         .audio-container {
             display: flex;
@@ -22,10 +22,15 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
             margin-top: 5px;
         }
     </style>
+-->
 
 
 # Visual Acoustic Matching (VAM)
 
+![Scene 1](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033.png)
+[Source](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/source_3729-6852-0033_0.0290.wav)
+
+<!--
 <div class="audio-container">
     <img src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033.png" alt="Scene 1">
     <div class="audio-block">
@@ -54,7 +59,7 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
     </div>
 </div>
 
-<!--
+
 ## 1. VCTK Corpus
 VCTK Corpus contains approximately 44 hours of speech recordings from 109 speakers with various accents. These sentences are selected from multiple media or archives. Each speaker reads out about 400 sentences selected by the greedy algorithm. VCTK Corpus contains 47 male speakers and 62 female speakers, with a relatively balanced gender ratio.
 
