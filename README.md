@@ -26,44 +26,26 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 
 
 # Visual Acoustic Matching (VAM)
-
+<!--
 ![Scene 1](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033.png)
 [Source](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/source_3729-6852-0033_0.0290.wav)
 [GT](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/gt_3729-6852-0033_0.0290.wav)
 [Image2Reverb](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav)
 [Avatir](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav)
 [MVSD](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav)
+-->
 
-<!--
-<div class="audio-container">
+
+<div>
     <img src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033.png" alt="Scene 1">
-    <div class="audio-block">
-	<audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio>
-	<div class="audio-description">Source</div>
-    </div>
-
-    <div class="audio-block">
-	    <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls></audio> 
-	    <div class="audio-description">GT</div>
-    </div>
-
-    <div class="audio-block">
-	    <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> 
-	    <div class="audio-description">Image2Reverb</div>
-    </div>
-
-    <div class="audio-block">
-	    <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> 
-	    <div class="audio-description">Avatir</div>
-    </div>
-
-    <div class="audio-block">
-	    <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033_0.0290.wav" controls></audio> 
-	    <div class="audio-description">MVSD</div>
-    </div>
+    <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio> Source
+    <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls></audio> GT
+    <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> Image2Reverb
+    <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> Avatir
+    <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033_0.0290.wav" controls></audio> MVSD
 </div>
 
-
+<!--
 ## 1. VCTK Corpus
 VCTK Corpus contains approximately 44 hours of speech recordings from 109 speakers with various accents. These sentences are selected from multiple media or archives. Each speaker reads out about 400 sentences selected by the greedy algorithm. VCTK Corpus contains 47 male speakers and 62 female speakers, with a relatively balanced gender ratio.
 
