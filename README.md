@@ -8,11 +8,14 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 
 # Visual Acoustic Matching (VAM)
 
-Note：
-- **StarGANv2-VC-noASR:** StarGANv2-VC **without** ASR network assistance. The speakers in the test set **exist** in the training set.
-- **StarGANv2-VC-ASR:** StarGANv2-VC **with** ASR network assistance. The speakers in the test set **exist** in the training set.
-- **SGAN-VC-Unseen:** The speakers in the test set **do not exist** in the training set.
-- **SGAN-VC-Seen:** The speakers in the test set **exist** in the training set.
+<div>
+    <img src="path_to_image1.jpg" alt="图片1描述">
+    <audio src="https://github.com/hechang25/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav" controls></audio>
+    <audio src="https://github.com/hechang25/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav" controls></audio>
+    <audio src="https://github.com/hechang25/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav" controls></audio>
+    <audio src="https://github.com/hechang25/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav" controls></audio>
+    <audio src="https://github.com/hechang25/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav" controls></audio>
+</div>
 
 <!--
 ## 1. VCTK Corpus
