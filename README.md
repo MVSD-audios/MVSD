@@ -5,8 +5,8 @@ By forming a closed loop, these two converters can generate informative feedback
 In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably, the performance of the models can be further enhanced by adding unpaired data.
 
 
-<!--
-# Many-to-many Voice Conversion Samples
+
+# Visual Acoustic Matching (VAM)
 
 Note：
 - **StarGANv2-VC-noASR:** StarGANv2-VC **without** ASR network assistance. The speakers in the test set **exist** in the training set.
@@ -14,7 +14,7 @@ Note：
 - **SGAN-VC-Unseen:** The speakers in the test set **do not exist** in the training set.
 - **SGAN-VC-Seen:** The speakers in the test set **exist** in the training set.
 
-
+<!--
 ## 1. VCTK Corpus
 VCTK Corpus contains approximately 44 hours of speech recordings from 109 speakers with various accents. These sentences are selected from multiple media or archives. Each speaker reads out about 400 sentences selected by the greedy algorithm. VCTK Corpus contains 47 male speakers and 62 female speakers, with a relatively balanced gender ratio.
 
