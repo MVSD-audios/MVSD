@@ -9,7 +9,7 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 # Visual Acoustic Matching (VAM)
 
 <div>
-    <img src="path_to_image1.jpg" alt="图片1描述">
+    <img src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033.png" alt="图片1描述">
     <audio src="https://github.com/hechang25/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav" controls></audio>
     <audio src="https://github.com/hechang25/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav" controls></audio>
     <audio src="https://github.com/hechang25/SGAN-VC/raw/gh-pages/samples/p233_316_mic1_to_p236_298_mic2/source_p233_316_mic1.wav" controls></audio>
