@@ -25,26 +25,6 @@ Audio style transfer under visual guidance has been made significant progress wi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](./samples/ss_reverb/4077-13751-0007.png)
-<table style="width: 112%; margin-left: auto; margin-right: auto;">
-    <tr>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source </td>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
-	<td> &nbsp;&nbsp;&nbsp;Image2Reverb </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avatir </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MVSD </td>
-    </tr>
-    <tr>
-    	<td><audio src="./samples/ss_reverb/source_4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
-    	<td><audio src="./samples/ss_reverb/gt_4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
-    	<td><audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_reverb/avatir/avitar_reverb_source_4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_reverb/4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
-    </tr>
-</table>
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ![image](./samples/ss_reverb/5639-40744-0034.png)
 <table style="width: 112%; margin-left: auto; margin-right: auto;">
     <tr>
@@ -60,6 +40,26 @@ Audio style transfer under visual guidance has been made significant progress wi
     	<td><audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_5639-40744-0034_0.0092.wav" controls style="width: 150px;"></audio> </td>
 	<td><audio src="./samples/ss_reverb/avatir/avitar_reverb_source_5639-40744-0034_0.0092.wav" controls style="width: 150px;"></audio> </td>
 	<td><audio src="./samples/ss_reverb/5639-40744-0034_0.0092.wav" controls style="width: 150px;"></audio> </td>
+    </tr>
+</table>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](./samples/ss_reverb/4077-13751-0007.png)
+<table style="width: 112%; margin-left: auto; margin-right: auto;">
+    <tr>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source </td>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
+	<td> &nbsp;&nbsp;&nbsp;Image2Reverb </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avatir </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MVSD </td>
+    </tr>
+    <tr>
+    	<td><audio src="./samples/ss_reverb/source_4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
+    	<td><audio src="./samples/ss_reverb/gt_4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
+    	<td><audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_reverb/avatir/avitar_reverb_source_4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_reverb/4077-13751-0007_0.0120.wav" controls style="width: 150px;"></audio> </td>
     </tr>
 </table>
 
