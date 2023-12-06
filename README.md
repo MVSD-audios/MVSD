@@ -24,6 +24,7 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
     </style>
 -->
 
+<img src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033.png" alt="Scene 1">
 
 # Visual Acoustic Matching (VAM)
 <!--
