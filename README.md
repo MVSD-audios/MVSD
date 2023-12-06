@@ -17,7 +17,7 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 	<td> MVSD </td>
     </tr>
     <tr>
-    	<td> <audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls style="width: 30px;"></audio> </td>
+    	<td> <audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls style="width: 100px;"></audio> </td>
     	<td> <audio src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls></audio> </td>
     	<td> <audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> </td>
 	<td> <audio src="./samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> </td>
