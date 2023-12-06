@@ -5,6 +5,7 @@ Audio style transfer under visual guidance has been made significant progress wi
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![image](./samples/ss_reverb/3729-6852-0033.png)
+<img src="./samples/ss_reverb/3729-6852-0033.png" style="width: 112%;">
 <table style="width: 112%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source </td>
