@@ -4,7 +4,7 @@ Audio style transfer under visual guidance has been made significant progress wi
 # Visual Acoustic Matching (VAM)
 
 ![image](./samples/ss_reverb/3729-6852-0033.png)
-<table style="width: 120%;">
+<table style="width: 110%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> Source </td>
     	<td> GT </td>
