@@ -30,19 +30,18 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 <table>
     <tr>
     	<td></td>
-    	<td> Sample 1 (p233 → p236) </td>
-    	<td> Sample 2 (p239 → p244) </td>
+    	<td> Source </td>
+    	<td> GT </td>
+	<td> Image2Reverb </td>
+	<td> Avatir </td>
+	<td> MVSD </td>
     </tr>
     <tr>
-    	<td>Source</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav">
-		</audio>
-		</td>
-    	<td><audio id="audio" controls="" preload="none">
-      		<source id="wav" src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav">
-		</audio>
-	    </td>
+    	<td> <audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio> </td>
+    	<td> <audio src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls></audio> </td>
+    	<td> <audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> </td>
+	<td> <audio src="./samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> </td>
+	<td> <audio src="./samples/ss_reverb/3729-6852-0033_0.0290.wav" controls></audio> </td>
     </tr>
 </table>
 
