@@ -28,12 +28,10 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 
 ![image](./samples/ss_reverb/3729-6852-0033.png)
 <audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio> Source
-[Play Audio](./samples/ss_reverb/source_3729-6852-0033_0.0290.wav)
-[GT](./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav)
-[Image2Reverb](./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav)
-[Avatir](./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav)
-[MVSD](./samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav)
-
+<audio src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls></audio> GT
+<audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> Image2Reverb
+<audio src="./samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> Avatir
+<audio src="./samples/ss_reverb/3729-6852-0033_0.0290.wav" controls></audio> MVSD
 
 <!--
 <div>
