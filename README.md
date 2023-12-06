@@ -29,17 +29,17 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 ![image](./samples/ss_reverb/3729-6852-0033.png)
 | Header 1 | Header 2 | Header 3 |
 |----------|----------|----------|
-| <audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio> | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+| <audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio> | <audio src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls></audio> | <audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> |
 
+
+<!--
 <audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio> Source
 <audio src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls></audio> GT
 <audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> Image2Reverb
 <audio src="./samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> Avatir
 <audio src="./samples/ss_reverb/3729-6852-0033_0.0290.wav" controls></audio> MVSD
 
-<!--
+
 <div>
     <img src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033.png" alt="Scene 1">
     <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio> Source
