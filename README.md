@@ -8,7 +8,7 @@
 # Visual Acoustic Matching (VAM)
 
 ![image](./samples/ss_reverb/3729-6852-0033.png)
-<table>
+<table style="width: 120%;">
     <tr>
     	<td> Source </td>
     	<td> GT </td>
