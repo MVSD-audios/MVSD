@@ -6,10 +6,10 @@ Audio style transfer under visual guidance has been made significant progress wi
 ![image](./samples/ss_reverb/3729-6852-0033.png)
 <table style="width: 112%; margin-left: auto; margin-right: auto;">
     <tr>
-    	<td> &nbsp;&nbsp;&nbsp;Source </td>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image2Reverb </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Avatir </td>
+    	<td> &nbsp;&nbsp;Source </td>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp; GT </td>
+	<td> &nbsp;&nbsp;Image2Reverb </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;Avatir </td>
 	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MVSD </td>
     </tr>
     <tr>
