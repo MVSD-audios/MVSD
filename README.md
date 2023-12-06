@@ -27,11 +27,11 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 # Visual Acoustic Matching (VAM)
 
 ![image](./samples/ss_reverb/3729-6852-0033.png)
-[Source](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/source_3729-6852-0033_0.0290.wav)
-[GT](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/gt_3729-6852-0033_0.0290.wav)
-[Image2Reverb](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav)
-[Avatir](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav)
-[MVSD](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav)
+[Source](./samples/ss_reverb/source_3729-6852-0033_0.0290.wav)
+[GT](./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav)
+[Image2Reverb](./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav)
+[Avatir](./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav)
+[MVSD](./samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav)
 
 
 <!--
