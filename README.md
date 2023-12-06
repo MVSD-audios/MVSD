@@ -64,6 +64,7 @@ Audio style transfer under visual guidance has been made significant progress wi
 </table>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## AVSpeech
 
 ![image](./samples/avs_reverb/101377.png)
@@ -105,25 +106,6 @@ Audio style transfer under visual guidance has been made significant progress wi
 </table>
 
 # Dereverbation
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![image](./samples/ss_dereverb/1221-135766-0003.png)
-<table style="width: 112%; margin-left: auto; margin-right: auto;">
-    <tr>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source </td>
-    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
-	<td> &nbsp;&nbsp;&nbsp;Image2Reverb </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avatir </td>
-	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MVSD </td>
-    </tr>
-    <tr>
-    	<td><audio src="./samples/ss_reverb/source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-    	<td><audio src="./samples/ss_reverb/gt_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-    	<td><audio src="./samples/ss_reverb/image2reverb/metric_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_reverb/avatir/vida_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_reverb/1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-    </tr>
-</table>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -162,5 +144,25 @@ Audio style transfer under visual guidance has been made significant progress wi
     	<td><audio src="./samples/ss_reverb/image2reverb/metric_source_7021-79730-0006_0.0181.wav" controls style="width: 150px;"></audio> </td>
 	<td><audio src="./samples/ss_reverb/avatir/vida_source_7021-79730-0006_0.0181.wav" controls style="width: 150px;"></audio> </td>
 	<td><audio src="./samples/ss_reverb/7021-79730-0006_0.0181.wav" controls style="width: 150px;"></audio> </td>
+    </tr>
+</table>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![image](./samples/ss_dereverb/1221-135766-0003.png)
+<table style="width: 112%; margin-left: auto; margin-right: auto;">
+    <tr>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source </td>
+    	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GT </td>
+	<td> &nbsp;&nbsp;&nbsp;Image2Reverb </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Avatir </td>
+	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MVSD </td>
+    </tr>
+    <tr>
+    	<td><audio src="./samples/ss_reverb/source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+    	<td><audio src="./samples/ss_reverb/gt_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+    	<td><audio src="./samples/ss_reverb/image2reverb/metric_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_reverb/avatir/vida_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_reverb/1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
     </tr>
 </table>
