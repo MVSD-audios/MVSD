@@ -4,32 +4,12 @@ What makes matters worse, existing methods treat each task independently, overlo
 By forming a closed loop, these two converters can generate informative feedback signals which can optimize the inverse tasks, even with easily acquired one-way unpaired data. Furthermore, we employ the diffusion model as foundational conditional generators to circumvent the training instability and over-smoothing drawbacks of conventional GAN architectures. Extensive experiments exhibit that our framework can improve the performance of each task and better match specified visual scenarios.
 In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably, the performance of the models can be further enhanced by adding unpaired data.
 
-<!--
-<style>
-        .audio-container {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            flex-direction: column;
-            text-align: center;
-        }
-
-        .audio-block {
-            margin: 5px;
-        }
-
-        .audio-description {
-            margin-top: 5px;
-        }
-    </style>
--->
 
 # Visual Acoustic Matching (VAM)
 
 ![image](./samples/ss_reverb/3729-6852-0033.png)
 <table>
     <tr>
-    	<td></td>
     	<td> Source </td>
     	<td> GT </td>
 	<td> Image2Reverb </td>
