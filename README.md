@@ -7,17 +7,17 @@ Audio style transfer under visual guidance has been made significant progress wi
 <table style="width: 112%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> Source </td>
-    	<td> GT </td>
-	<td> Image2Reverb </td>
-	<td> Avatir </td>
-	<td> MVSD </td>
+    	<td> &nbsp;&nbsp;&nbsp; GT </td>
+	<td>    Image2Reverb </td>
+	<td>    Avatir </td>
+	<td>    MVSD </td>
     </tr>
     <tr>
-    	<td> <audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
-    	<td> <audio src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
-    	<td> <audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
-	<td> <audio src="./samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
-	<td> <audio src="./samples/ss_reverb/3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
+    	<td><audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
+    	<td><audio src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
+    	<td><audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_reverb/3729-6852-0033_0.0290.wav" controls style="width: 150px;"></audio> </td>
     </tr>
 </table>
 
