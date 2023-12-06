@@ -27,9 +27,24 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 # Visual Acoustic Matching (VAM)
 
 ![image](./samples/ss_reverb/3729-6852-0033.png)
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| <audio src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio> | <audio src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav" controls></audio> | <audio src="./samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav" controls></audio> |
+<table>
+    <tr>
+    	<td></td>
+    	<td> Sample 1 (p233 → p236) </td>
+    	<td> Sample 2 (p239 → p244) </td>
+    </tr>
+    <tr>
+    	<td>Source</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="./samples/ss_reverb/source_3729-6852-0033_0.0290.wav">
+		</audio>
+		</td>
+    	<td><audio id="audio" controls="" preload="none">
+      		<source id="wav" src="./samples/ss_reverb/gt_3729-6852-0033_0.0290.wav">
+		</audio>
+	    </td>
+    </tr>
+</table>
 
 
 <!--
