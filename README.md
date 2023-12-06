@@ -24,12 +24,9 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
     </style>
 -->
 
-![image](./samples/ss_reverb/3729-6852-0033.png)
-
-<!--
 # Visual Acoustic Matching (VAM)
 
-![Scene 1](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033.png)
+![image](./samples/ss_reverb/3729-6852-0033.png)
 [Source](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/source_3729-6852-0033_0.0290.wav)
 [GT](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/gt_3729-6852-0033_0.0290.wav)
 [Image2Reverb](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/image2reverb/img2reverb_reverb_source_3729-6852-0033_0.0290.wav)
@@ -37,7 +34,7 @@ In both tasks, MVSD surpasses competitors on two standard benchmarks. Remarkably
 [MVSD](https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/avatir/avitar_reverb_source_3729-6852-0033_0.0290.wav)
 
 
-
+<!--
 <div>
     <img src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/3729-6852-0033.png" alt="Scene 1">
     <audio src="https://github.com/MVSD-audios/MVSD/blob/demo-pages/samples/ss_reverb/source_3729-6852-0033_0.0290.wav" controls></audio> Source
