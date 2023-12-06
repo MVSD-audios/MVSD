@@ -67,8 +67,7 @@ Audio style transfer under visual guidance has been made significant progress wi
 
 ## AVSpeech
 
-![image](./samples/avs_reverb/101377.png)
-<img src="./samples/avs_reverb/101377.png" style="width: 250%;">
+<img src="./samples/avs_reverb/101377.png" style="width: 270%;">
 <table style="width: 112%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source </td>
@@ -88,7 +87,7 @@ Audio style transfer under visual guidance has been made significant progress wi
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image](./samples/avs_reverb/101627.png)
+<img src="./samples/avs_reverb/101627.png" style="width: 270%;">
 <table style="width: 112%; margin-left: auto; margin-right: auto;">
     <tr>
     	<td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Source </td>
