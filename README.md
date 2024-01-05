@@ -143,7 +143,7 @@ Audio style transfer under visual guidance has been made significant progress wi
     	<td><audio src="./samples/ss_dereverb/gt_7021-79730-0006_0.0181.wav" controls style="width: 150px;"></audio> </td>
     	<td><audio src="./samples/ss_dereverb/metricgan/metric_source_7021-79730-0006_0.0181.wav" controls style="width: 150px;"></audio> </td>
 	<td><audio src="./samples/ss_dereverb/vida_dereverb/vida_source_7021-79730-0006_0.0181.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_dereverb/7021-79730-0006_0.0181.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_dereverb/7021-79730-0006_0.0088.wav" controls style="width: 150px;"></audio> </td>
     </tr>
 </table>
 
@@ -163,6 +163,6 @@ Audio style transfer under visual guidance has been made significant progress wi
     	<td><audio src="./samples/ss_dereverb/gt_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
     	<td><audio src="./samples/ss_dereverb/metricgan/metric_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
 	<td><audio src="./samples/ss_dereverb/vida_dereverb/vida_source_1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
-	<td><audio src="./samples/ss_dereverb/1221-135766-0003_0.0018.wav" controls style="width: 150px;"></audio> </td>
+	<td><audio src="./samples/ss_dereverb/1221-135766-0003_0.0082.wav" controls style="width: 150px;"></audio> </td>
     </tr>
 </table>
